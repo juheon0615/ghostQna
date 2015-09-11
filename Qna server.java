@@ -16,7 +16,7 @@ public class QnaServer{
 	Socket sock = null;
 	String index1 = null;
 
-//Starting server and opening Socket
+//Starting server and opening Socket commit
 	public QnaSever(){
 		System.out.println("Qna Server Started...");
 		try{
